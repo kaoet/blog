@@ -1,0 +1,22 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Twitter: https://twitter.com/_Kaoet
+    GitHub: https://github.com/kaoet
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+cloudTie:
+
+# Analytics
+# google-analytics:
+ga:
+
+# Copyright Infomation
+startyear: 2017
